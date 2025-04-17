@@ -2,6 +2,7 @@
 #include "Fraction.h"
 
 int main() {
+	system("chcp 1251");
 	Fraction f1(3, 4);
 	Fraction f2(1, 2);
 	std::cout << "f1 = " << f1 << ", f2 = " << f2 << std::endl;
