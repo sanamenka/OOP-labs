@@ -11,9 +11,9 @@ private:
 	void resize(int new_capacity);
 
 public:
-	Array(int size = 10);
+	Array(int size_t = 10);
 	Array(const Array& other);
-	Array(Array&& other) noexcept;
+	Array(Array&& move) noexcept;
 
 	~Array();
 
@@ -22,8 +22,8 @@ public:
 	int find(int value) const noexcept;
 
 	bool insert(const int index,const int& value);
-	bool remove(int value);
 	bool removeAtIndex(int index);
+	bool remove(int value);
 
 	int& operator[](int index) noexcept;
 	const int& operator[](int index) const noexcept;
@@ -36,4 +36,3 @@ public:
 	friend std::istream& operator>>(std::istream& in, Array& arr);
 	friend std::ostream& operator<<(std::ostream& out, const Array& arr);
 };
-
