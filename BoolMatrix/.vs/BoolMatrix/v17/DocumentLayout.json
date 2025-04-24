@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|solutionrelative:BoolMatrix\\BoolMatrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|solutionrelative:BoolMatrix\\BoolVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|solutionrelative:BoolMatrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|solutionrelative:BoolMatrix\\BoolMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|solutionrelative:BoolMatrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|solutionrelative:BoolMatrix\\BoolVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F88B0190-CE13-457A-A057-90C536733653}|BoolMatrix\\BoolMatrix.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "BoolMatrix\\BoolVector.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-23T12:34:30.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T12:34:30.978Z"
             },
             {
               "$type": "Document",
@@ -53,14 +52,14 @@
               "RelativeDocumentMoniker": "BoolMatrix\\BoolMatrix.cpp",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolMatrix.cpp",
               "RelativeToolTip": "BoolMatrix\\BoolMatrix.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T12:34:18.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BoolVector.h",
               "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolVector.h",
               "RelativeDocumentMoniker": "BoolMatrix\\BoolVector.h",
@@ -79,20 +78,20 @@
               "RelativeDocumentMoniker": "BoolMatrix\\BoolMatrix.h",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\BoolMatrix.h",
               "RelativeToolTip": "BoolMatrix\\BoolMatrix.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T12:33:24.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\main.cpp",
               "RelativeDocumentMoniker": "BoolMatrix\\main.cpp",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\BoolMatrix\\BoolMatrix\\main.cpp",
               "RelativeToolTip": "BoolMatrix\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T12:32:54.104Z",
               "EditorCaption": ""

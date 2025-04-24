@@ -1,6 +1,6 @@
 ﻿  BoolMatrix.cpp
-A:\Applications\OOP\OOP-labs\BoolMatrix\BoolMatrix\BoolMatrix.cpp(14,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-A:\Applications\OOP\OOP-labs\BoolMatrix\BoolMatrix\BoolMatrix.cpp(19,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+A:\Applications\OOP\OOP-labs\BoolMatrix\BoolMatrix\BoolMatrix.cpp(13,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+A:\Applications\OOP\OOP-labs\BoolMatrix\BoolMatrix\BoolMatrix.cpp(18,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
   BoolVector.cpp
 A:\Applications\OOP\OOP-labs\BoolMatrix\BoolMatrix\BoolVector.cpp(22,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
 A:\Applications\OOP\OOP-labs\BoolMatrix\BoolMatrix\BoolVector.cpp(193,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных

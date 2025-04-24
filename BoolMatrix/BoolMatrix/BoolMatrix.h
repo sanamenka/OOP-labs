@@ -17,11 +17,11 @@ public:
 
     ~BoolMatrix() = default;
 
-    int rowCount() const;
-    int colCount() const;
+    int get_row() const;
+    int get_col() const;
 
     void swap(BoolMatrix& other);
-    int weight() const;
+    int get_weight() const;
     BoolVector conjunction() const;
     BoolVector disjunction() const;
     int rowWeight(int j) const;
