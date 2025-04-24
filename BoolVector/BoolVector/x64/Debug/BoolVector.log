@@ -1,6 +1,6 @@
 ﻿  BoolVector.cpp
-A:\Applications\OOP\OOP-labs\BoolVector\BoolVector\BoolVector.cpp(22,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-A:\Applications\OOP\OOP-labs\BoolVector\BoolVector\BoolVector.cpp(193,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+A:\Applications\OOP\OOP-labs\BoolVector\BoolVector\BoolVector.cpp(34,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+A:\Applications\OOP\OOP-labs\BoolVector\BoolVector\BoolVector.cpp(198,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   main.cpp
   Создание кода...
   BoolVector.vcxproj -> A:\Applications\OOP\OOP-labs\BoolVector\x64\Debug\BoolVector.exe

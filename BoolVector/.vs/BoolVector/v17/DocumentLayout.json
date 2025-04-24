@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|solutionrelative:BoolVector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\BoolVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|solutionrelative:BoolVector\\BoolVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\BoolVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|solutionrelative:BoolVector\\BoolVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{92EFA3A2-B2E3-4548-A271-04855FC4EC34}|BoolVector\\BoolVector.vcxproj|solutionrelative:BoolVector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BoolVector.cpp",
               "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\BoolVector.cpp",
               "RelativeDocumentMoniker": "BoolVector\\BoolVector.cpp",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\BoolVector.cpp",
               "RelativeToolTip": "BoolVector\\BoolVector.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T12:24:50.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BoolVector.h",
               "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\BoolVector.h",
               "RelativeDocumentMoniker": "BoolVector\\BoolVector.h",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\BoolVector.h",
               "RelativeToolTip": "BoolVector\\BoolVector.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T12:24:45.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\main.cpp",
               "RelativeDocumentMoniker": "BoolVector\\main.cpp",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\BoolVector\\BoolVector\\main.cpp",
               "RelativeToolTip": "BoolVector\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-23T12:24:29.352Z"
+              "WhenOpened": "2025-04-23T12:24:29.352Z",
+              "EditorCaption": ""
             }
           ]
         }
