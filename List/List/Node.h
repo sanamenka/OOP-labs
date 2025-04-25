@@ -7,6 +7,5 @@ public:
     Node<T>* next;
     Node<T>* prev;
 
-    Node(const T& value);
+    Node(const T& value) : data(value), next(nullptr), prev(nullptr) {}
 };
-
