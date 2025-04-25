@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|solutionrelative:List\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|A:\\Applications\\OOP\\OOP-labs\\List\\List\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|solutionrelative:List\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|A:\\Applications\\OOP\\OOP-labs\\List\\List\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|solutionrelative:List\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|solutionrelative:List\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|A:\\Applications\\OOP\\OOP-labs\\List\\List\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|solutionrelative:List\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49238469-1DC7-4521-88A0-461D7CAD0C6A}|List\\List.vcxproj|solutionrelative:List\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +34,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Node.h",
-              "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.h",
-              "RelativeDocumentMoniker": "List\\Node.h",
-              "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.h",
-              "RelativeToolTip": "List\\Node.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-23T12:37:16.119Z",
+              "DocumentIndex": 2,
+              "Title": "List.cpp",
+              "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\List.cpp",
+              "RelativeDocumentMoniker": "List\\List.cpp",
+              "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\List.cpp",
+              "RelativeToolTip": "List\\List.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:49:27.88Z",
               "EditorCaption": ""
             },
             {
@@ -45,14 +53,40 @@
               "RelativeDocumentMoniker": "List\\List.h",
               "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\List.h",
               "RelativeToolTip": "List\\List.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-23T12:36:56.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.cpp",
+              "RelativeDocumentMoniker": "List\\Node.cpp",
+              "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.cpp",
+              "RelativeToolTip": "List\\Node.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:49:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.h",
+              "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.h",
+              "RelativeDocumentMoniker": "List\\Node.h",
+              "ToolTip": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\Node.h",
+              "RelativeToolTip": "List\\Node.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T12:37:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "A:\\Applications\\OOP\\OOP-labs\\List\\List\\main.cpp",
               "RelativeDocumentMoniker": "List\\main.cpp",
